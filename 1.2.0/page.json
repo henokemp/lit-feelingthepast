@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "title": "The first task",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": false,
+  "money": null,
+  "time": null,
+  "chapter": null
+}

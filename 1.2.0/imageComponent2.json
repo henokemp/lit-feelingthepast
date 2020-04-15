@@ -2,7 +2,7 @@
   "id": null,
   "numberOfColumns": 4,
   "offsetColumns": 1,
-  "renderOrder": 1,
+  "renderOrder": 2,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
@@ -11,5 +11,5 @@
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be an image of a garden"
+  "caption": "this should be a picture of some painting"
 }

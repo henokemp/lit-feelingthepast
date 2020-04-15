@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "title": "Welcome to the museum!",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": false,
+  "money": null,
+  "time": null,
+  "chapter": null
+}

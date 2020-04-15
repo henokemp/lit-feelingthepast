@@ -1,8 +1,8 @@
 {
   "id": null,
-  "from": null,
-  "to": "lit-feelingthepast/1.0.1/page.json",
-  "buttonText": "Look at your phone",
+  "from": "lit-feelingthepast/1.1.1/page.json",
+  "to": "lit-feelingthepast/1.2.0/page.json",
+  "buttonText": "Follow Frederic Luzon to Laura",
   "time": {
     "time": 0
   },
