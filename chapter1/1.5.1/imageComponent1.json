@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "images": [
+    "resources/1.0.0_garden.jpg"
+  ],
+  "imageViewRectangle": null,
+  "zoomable": true,
+  "caption": "this should be a picture of the Basement"
+}
