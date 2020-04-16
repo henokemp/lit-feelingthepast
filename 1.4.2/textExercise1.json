@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 4,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "descriptionForNotebook": null,
+  "page": null,
+  "exerciseState": null,
+  "placeholderText": "Take some notes",
+  "defaultText": null,
+  "maxLength": null,
+  "textSolutions": []
+}

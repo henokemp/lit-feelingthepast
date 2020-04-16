@@ -6,10 +6,5 @@
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "images": [
-    "resources/museum.jpg"
-  ],
-  "imageViewRectangle": null,
-  "zoomable": true,
-  "caption": "this should be a picture of a museum"
+  "markdownContent": "Write a paragraph about how you might use the things you've learned today to write a historical paper. "
 }

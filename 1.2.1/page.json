@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "title": "What do you see?",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "autoTransitionOnTimerExpiration": false,
+  "endOfTopic": false,
+  "money": null,
+  "time": null,
+  "chapter": null
+}

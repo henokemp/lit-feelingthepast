@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "lit-feelingthepast/1.4.2/page.json",
+  "buttonText": "The data-set from the database",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "lit-feelingthepast/1.3.0/page.json",
+  "buttonText": "Go to Timea on the first floor",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

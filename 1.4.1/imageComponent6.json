@@ -2,14 +2,14 @@
   "id": null,
   "numberOfColumns": 4,
   "offsetColumns": 1,
-  "renderOrder": 1,
+  "renderOrder": 3,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
   "images": [
-    "resources/museum.jpg"
+    "resources/T_Coffee.jpg"
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be a picture of a museum"
+  "caption": "this should be a picture of the dataset"
 }

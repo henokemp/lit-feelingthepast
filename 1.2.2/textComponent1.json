@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "«Thank you so much, {{user.firstName}}! This looks great, right? Seems to me that you have a good eye, I wouldn't have noticed half of the things. I guess if you study history you really do learn how to have a good look at sources.<br><br>I talked to Laura a few minutes ago, she wants you to help Timea, the curator, for a bit. You'll find her on the first floor in one of the historical rooms. Thank you so much again for you help!»"
+}
