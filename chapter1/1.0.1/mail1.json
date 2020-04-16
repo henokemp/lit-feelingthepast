@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "from": "chapter1/1.0.1/character1.json",
+  "openOnReceive": true,
+  "receiveAfter": {
+    "time": 0
+  },
+  "showInNotebook": false,
+  "page": null,
+  "subject": "What's up",
+  "body": "Dear {{user.firstName}}<br><br>I hope, you're doing great and enjoying the good weather!<br><br>Once again, thank you for choosing me as the supervisor for your Master's thesis, I'm sure it's going to be a lot of fun! Regarding that: Do you already have an idea, what the topic's supposed to be? I'm of course giving you complete creative control, but please have a rough research outline ready soon.  That way we can keep developing good ideas and do some gooood work.<br><br>In other news: My friend Laura, who's the director of the Von-Ranke-Museum, is looking for an intern. It's over summer, so I thought it would be perfect for you. Maybe you'll get some good ideas, while working. I told her over dinner last night about your past few papers and she was thrilled to get to know you!<br><br>So give her a call and say, who you are, so you can start next Monday.<br><br>All the best and talk to you soon<br><br>- Alex -"
+}

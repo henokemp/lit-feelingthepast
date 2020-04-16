@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/1.0.1/page.json",
+  "buttonText": "Look at your phone",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}
