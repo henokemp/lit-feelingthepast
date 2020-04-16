@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/1.1.0/page.json",
+  "buttonText": "Try entering the museum through the somewhat concealed side entrance",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

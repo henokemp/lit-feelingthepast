@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/1.5.2/page.json",
+  "buttonText": "Go for your well-earned beer",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/1.5.1/textExercise1.json",
+      "affectedPage": "chapter1/1.5.1/page.json",
+      "affectedMail": null
+    }
+  ]
+}
