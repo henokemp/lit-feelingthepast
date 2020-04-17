@@ -2,7 +2,7 @@
   "id": null,
   "numberOfColumns": 8,
   "offsetColumns": 2,
-  "renderOrder": 4,
+  "renderOrder": 7,
   "showInNotebook": true,
   "showInNotebookAt": "pageExit",
   "descriptionForNotebook": null,
@@ -11,11 +11,5 @@
   "placeholderText": "Take some notes",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": [
-    {
-      "textToCompare": null,
-      "minLength": 500,
-      "mode": "length"
-    }
-  ]
+  "textSolutions": []
 }

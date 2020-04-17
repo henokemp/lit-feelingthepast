@@ -12,10 +12,10 @@
   "criteria": [
     {
       "pageCriteria": null,
-      "exerciseCriteria": "correctInput",
+      "exerciseCriteria": null,
       "mailCriteria": null,
-      "affectedExercise": "chapter1/1.2.1/textExercise1.json",
-      "affectedPage": "chapter1/1.2.1/page.json",
+      "affectedExercise": null,
+      "affectedPage": null,
       "affectedMail": null
     }
   ]
