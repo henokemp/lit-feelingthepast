@@ -1,8 +1,8 @@
 {
   "id": null,
-  "numberOfColumns": 4,
+  "numberOfColumns": 3,
   "offsetColumns": 1,
-  "renderOrder": 3,
+  "renderOrder": 6,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,

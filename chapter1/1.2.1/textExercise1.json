@@ -11,5 +11,11 @@
   "placeholderText": "Take some notes",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": []
+  "textSolutions": [
+    {
+      "textToCompare": null,
+      "minLength": 500,
+      "mode": "length"
+    }
+  ]
 }
