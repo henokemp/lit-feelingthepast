@@ -1,1 +1,3 @@
 # lit-feelingthepast
+## The Idea
+This is the repository for my chapter in the Lives in Transit game based on the Marugoto engine. The main concept is introducing more objects as sources into historical research. With using the narrative structure of Marugoto, the player will be confronted with a number of tasks, which have the goal to facilitate critical thinking about, how historians use objects as sources in their research. 
