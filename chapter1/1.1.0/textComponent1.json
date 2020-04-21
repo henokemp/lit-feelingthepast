@@ -2,9 +2,9 @@
   "id": null,
   "numberOfColumns": 4,
   "offsetColumns": 1,
-  "renderOrder": 1,
+  "renderOrder": 2,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "markdownContent": "«Hello», rumbles a deep voice behind the door, «can I help you?»<br><br>«Probably, I'm {{user.firstName}} {{user.lastName}} and I'm starting an internship here today.»<br><br>«Ah, yeah, I heard of you, the student of that crazy professor, right?»<br><br>«Right», you say with a knowing grin.<br><br>«My name's Hans Velum, I'm the caretaker of the museum. Shall I bring you to Laura?»"
+  "markdownContent": "«Hello», rumbles a deep voice behind the door, «can I help you?»<br><br>«Probably, and I'm starting an internship here today and wasn't sure through which entrance to enter.»<br><br>«Ah, yeah, I heard of you, the student of that crazy professor, right?»<br><br>«Right», you say with a knowing grin.<br><br>«My name's Hans Velum, I'm the caretaker of the museum. Shall I bring you to Laura?»"
 }
