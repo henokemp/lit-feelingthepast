@@ -6,5 +6,5 @@
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "markdownContent": "«You must be {{user.firstName}} {{user.lastName}}, I'm Timea Ricci, the curator for this museum. My specialty is SPECIALTY. I'm currently working on an exhibition about TOPIC and am still collecting some objects. Maybe you can help me finding some of them. I have this data-set here, which I found in our database. I'd like to use it in the exhibition, but I'm not sure how it looks like as the data-set doesn't have a picture. This makes it all the more difficult, maybe you can figure out, which object relates to this data-set.»"
+  "markdownContent": "«You must be the new intern! I'm Timea Ricci, the curator for this museum. My specialty is the early modern European history. I'm currently working on an exhibition about everyday objects and am still collecting some things. Maybe you can help me, I have this data-set of a mortar here, which I found in our database. I'd like to use it in the exhibition, but I'm not sure how it looks like as the data-set doesn't have a picture. This makes it all the more difficult, maybe you can figure out, which object relates to this data-set.»"
 }
