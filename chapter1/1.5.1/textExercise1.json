@@ -2,7 +2,7 @@
   "id": null,
   "numberOfColumns": 8,
   "offsetColumns": 2,
-  "renderOrder": 4,
+  "renderOrder": 3,
   "showInNotebook": true,
   "showInNotebookAt": "pageExit",
   "descriptionForNotebook": null,
@@ -11,11 +11,5 @@
   "placeholderText": "Write a short research outline",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": [
-	 {
-      "textToCompare": null,
-      "minLength": 500,
-      "mode": "length"
-    }
-]
+  "textSolutions": []
 }

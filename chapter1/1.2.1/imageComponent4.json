@@ -1,8 +1,14 @@
 {
   "id": null,
+<<<<<<< HEAD
   "numberOfColumns": 5,
   "offsetColumns": 1,
   "renderOrder": 6,
+=======
+  "numberOfColumns": 3,
+  "offsetColumns": 2,
+  "renderOrder": 5,
+>>>>>>> origin/master
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,

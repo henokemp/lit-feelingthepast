@@ -1,7 +1,12 @@
 {
   "id": null,
+<<<<<<< HEAD
   "title": "Frederic's object",
   "page": "chapter1/1.2.1/page.json",
   "dialogResponse": null,
   "mail": null
+=======
+  "title": "Frederic's coffee-maker",
+  "page": null
+>>>>>>> origin/master
 }

@@ -2,7 +2,11 @@
   "id": null,
   "numberOfColumns": 8,
   "offsetColumns": 2,
+<<<<<<< HEAD
   "renderOrder": 8,
+=======
+  "renderOrder": 7,
+>>>>>>> origin/master
   "showInNotebook": true,
   "showInNotebookAt": "pageExit",
   "descriptionForNotebook": null,

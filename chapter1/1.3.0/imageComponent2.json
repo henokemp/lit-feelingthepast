@@ -3,13 +3,13 @@
   "numberOfColumns": 4,
   "offsetColumns": 1,
   "renderOrder": 3,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
     "resources/objects2.jpg"
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be a picture of 4 objects with numbers on them"
+  "caption": "this should be a picture of 4 objects"
 }

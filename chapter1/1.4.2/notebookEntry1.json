@@ -1,7 +1,11 @@
 {
   "id": null,
   "title": "An inhaler?",
+<<<<<<< HEAD
   "page": "chapter1/1.4.2/page.json",
   "dialogResponse": null,
   "mail": null
+=======
+  "page": null
+>>>>>>> origin/master
 }
