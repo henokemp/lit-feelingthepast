@@ -1,7 +1,7 @@
 {
   "id": null,
-  "numberOfColumns": 4,
-  "offsetColumns": 4,
+  "numberOfColumns": 6,
+  "offsetColumns": 3,
   "renderOrder": 4,
   "showInNotebook": false,
   "showInNotebookAt": null,
