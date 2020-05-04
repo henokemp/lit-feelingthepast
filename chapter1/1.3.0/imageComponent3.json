@@ -2,14 +2,14 @@
   "id": null,
   "numberOfColumns": 5,
   "offsetColumns": 1,
-  "renderOrder": 3,
+  "renderOrder": 4,
   "showInNotebook": true,
   "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
-    "resources/objects2.jpg"
+    "resources/object2_ds.jpg"
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be a picture of 4 objects"
+  "caption": "this should be a picture of a dataset"
 }
