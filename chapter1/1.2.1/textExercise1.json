@@ -1,15 +1,21 @@
 {
   "id": null,
-  "numberOfColumns": 8,
-  "offsetColumns": 2,
-  "renderOrder": 7,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 3,
   "showInNotebook": true,
   "showInNotebookAt": "pageExit",
   "descriptionForNotebook": null,
   "page": null,
   "exerciseState": null,
-  "placeholderText": "Take some notes",
+  "placeholderText": "Write your thoughts down (they will be also saved in your notebook)",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": []
+  "textSolutions": [
+    {
+      "textToCompare": null,
+      "minLength": 300,
+      "mode": "length"
+    }
+  ]
 }

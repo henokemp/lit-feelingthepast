@@ -11,5 +11,11 @@
   "placeholderText": "Write a short research outline",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": []
+  "textSolutions": [
+    {
+      "textToCompare": null,
+      "minLength": 300,
+      "mode": "length"
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "id": null,
   "numberOfColumns": 5,
   "offsetColumns": 1,
-  "renderOrder": 6,
+  "renderOrder": 7,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
@@ -11,5 +11,5 @@
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be a picture of object view 4"
+  "caption": null
 }
