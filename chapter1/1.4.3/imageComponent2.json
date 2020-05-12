@@ -3,7 +3,7 @@
   "numberOfColumns": 6,
   "offsetColumns": 3,
   "renderOrder": 5,
-  "showInNotebook": false,
+  "showInNotebook": true,
   "showInNotebookAt": null,
   "page": null,
   "images": [
