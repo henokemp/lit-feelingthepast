@@ -4,7 +4,7 @@
   "offsetColumns": 3,
   "renderOrder": 5,
   "showInNotebook": true,
-  "showInNotebookAt": null,
+  "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
     "resources/ds2_picture.jpg"

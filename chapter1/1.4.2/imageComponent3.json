@@ -3,8 +3,8 @@
   "numberOfColumns": 8,
   "offsetColumns": 2,
   "renderOrder": 5,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
     "resources/ds1_picture.jpg"
