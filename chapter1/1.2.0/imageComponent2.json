@@ -3,8 +3,8 @@
   "numberOfColumns": 8,
   "offsetColumns": 2,
   "renderOrder": 3,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
     "resources/painting.jpg"

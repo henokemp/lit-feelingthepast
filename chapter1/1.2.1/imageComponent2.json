@@ -3,8 +3,8 @@
   "numberOfColumns": 5,
   "offsetColumns": 1,
   "renderOrder": 4,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
   "page": null,
   "images": [
     "resources/object1_view1.jpg"
