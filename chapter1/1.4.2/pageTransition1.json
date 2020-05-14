@@ -11,11 +11,11 @@
   },
   "criteria": [
     {
-      "pageCriteria": null,
+      "pageCriteria": "visited",
       "exerciseCriteria": "correctInput",
       "mailCriteria": null,
       "affectedExercise": "chapter1/1.4.2/textExercise1.json",
-      "affectedPage": null,
+      "affectedPage": "chapter1/1.4.2/page.json",
       "affectedMail": null
     }
   ]
