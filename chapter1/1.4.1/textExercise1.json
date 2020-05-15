@@ -9,7 +9,7 @@
   "page": null,
   "exerciseState": null,
   "placeholderText": "Take some notes",
-  "defaultText": null,
+  "defaultText": "",
   "maxLength": null,
   "textSolutions": [
     {
