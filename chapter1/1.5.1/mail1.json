@@ -8,5 +8,5 @@
   "showInNotebook": false,
   "page": null,
   "subject": "First day at the museum",
-  "body": "Dear {{user.firstName}}<br><br>How're you doing? I think, when you read this, you should be almost done with your workday. I was talking to Frederic earlier and he told me, that you were able to gather some information about objects, that interest you. Sounds great. You should send me some of your thoughts about how you would create a research paper based on what you found out today. Just write it down quickly and send it to me soon.<br><br>All the best and talk to you soon<br><br>- Alex -"
+  "body": "Dear {{user.firstName}}<br><br>How're you doing? I think when you read this, you should be almost done with your workday. I was talking to Frederic earlier and he told me, that you were able to gather some information about objects, that interest you. Sounds great. You should send me some of your thoughts about how you would create a research paper based on what you found out today. Just write it down quickly and send it to me soon.<br><br>All the best and talk to you soon<br><br>- Alex -"
 }
