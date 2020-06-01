@@ -1,7 +1,7 @@
 {
   "id": null,
   "title": "Feeling the Past",
-  "image": "resources/logo.jpg",
+  "image": "resources/objects2.jpg",
   "active": true,
   "startPage": "chapter1/1.0.0/page.json"
 }
