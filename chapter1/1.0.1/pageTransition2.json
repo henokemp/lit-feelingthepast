@@ -2,7 +2,7 @@
   "id": null,
   "from": null,
   "to": "chapter1/1.0.2/page.json",
-  "buttonText": "You call the museum and ask for Laura Brobdingian",
+  "buttonText": "Call the museum and ask for Laura Brobdingian",
   "time": {
     "time": 0
   },
