@@ -9,7 +9,7 @@
   "page": null,
   "exerciseState": null,
   "placeholderText": "Write your thoughts down (they will be saved in your Notebook when you leave this page). Minimum 300 characters.",
-  "defaultText": "",
+  "defaultText": null,
   "maxLength": null,
   "textSolutions": [
     {
