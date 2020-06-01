@@ -2,7 +2,7 @@
   "id": null,
   "from": null,
   "to": "chapter1/1.4.0/page.json",
-  "buttonText": "Go to lunch and then to Frederic in the basement",
+  "buttonText": "Go for lunch and then once again to Frederic",
   "time": {
     "time": 0
   },
