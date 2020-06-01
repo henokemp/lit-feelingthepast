@@ -8,7 +8,7 @@
   "descriptionForNotebook": null,
   "page": null,
   "exerciseState": null,
-  "placeholderText": "Write your thoughts down (they will also be saved in your notebook), min. 300 characters",
+  "placeholderText": "Write your thoughts down (minimum 300 characters)",
   "defaultText": "",
   "maxLength": null,
   "textSolutions": [
